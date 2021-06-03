@@ -42,6 +42,7 @@ EDIT (exam Nr.3 and later):
     added Toon Mechanic in Open Tasks' Mechanic options;
     added Effect text visibility in card's image; 
     added lowercase/uppercase insensibility in "assessorsOpen" folder's files when assessing values of Open Tasks' Effect fields;
+    added quick question's result details navigation which scrolls into view the result details of the question user pressed. This navigation becomes from answer color icon near to it's respective question icon;
     added Music with button to mute and unmute it;
     added "Go back to top" button;
     added Result Details of Test Questions button with Test details window and info;
