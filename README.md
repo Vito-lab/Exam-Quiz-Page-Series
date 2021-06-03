@@ -51,4 +51,5 @@ EDIT (exam Nr.3 and later):
     added font awesome icons in Info and Help support icons' slots and therefore Info and Help picture icons were removed;
     improved CSS for page colors. Now all code lines of page colors are in 1 CSS file;
     improved Info and Help windows' closure features. Now these windows will close only when user clicks mouse left-click outside window. Also improved scrolling features in the window's field;
+    improved background picture's scaling. Now proportions of picture do not change while changing screen size;
     code was shortened (was 388 JS files, now 302). Created dependencies on parent functions for simplier editing.
