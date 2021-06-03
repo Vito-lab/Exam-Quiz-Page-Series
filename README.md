@@ -34,7 +34,7 @@ JS:
     
 EDIT (exam Nr.2 and later):
 
-    improved CSS for page color shadows. Now all code lines of page color shadows are in 1 CSS file as commented (optional) code;
+    improved CSS for page color shadows. Now all code lines of page color shadows are in 1 CSS file as commented (optional) code.
 
 
 EDIT (exam Nr.3 and later):
