@@ -30,3 +30,25 @@ JS:
     navigation icons when are clicked scrolls into view their appropriate questions;
     all values are reseted when page is refreshed or appropriate analogic option is selected;
     some more minor codes which makes the experience of this page's usage pleasant.
+    
+    
+EDIT (exam Nr.2 and later):
+
+    improved CSS for page color shadows. Now all code lines of page color shadows are in 1 CSS file as commented (optional) code;
+
+
+EDIT (exam Nr.3 and later):
+
+    added Toon Mechanic in Open Tasks' Mechanic options;
+    added Effect text visibility in card's image; 
+    added lowercase/uppercase insensibility in "assessorsOpen" folder's files when assessing values of Open Tasks' Effect fields;
+    added Music with button to mute and unmute it;
+    added "Go back to top" button;
+    added Result Details of Test Questions button with Test details window and info;
+    added Hover text on Navigation icons and Result Details' icons;
+    added page color changes with CSS and JS;
+    added screen width adjustions;
+    added font awesome icons in Info and Help support icons' slots and therefore Info and Help picture icons were removed;
+    improved CSS for page colors. Now all code lines of page colors are in 1 CSS file;
+    improved Info and Help windows' closure features. Now these windows will close only when user clicks mouse left-click outside window. Also improved scrolling features in the window's field;
+    code was shortened (was 388 JS files, now 302). Created dependencies on parent functions for simplier editing.
