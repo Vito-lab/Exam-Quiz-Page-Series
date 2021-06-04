@@ -40,7 +40,7 @@ EDIT (exam Nr.2 and later):
 EDIT (exam Nr.3 and later):
 
     added Toon Mechanic in Open Tasks' Mechanic options;
-    added Effect text visibility in card's image; 
+    added Effect text visibility in card's image;
     added lowercase/uppercase insensibility in "assessorsOpen" folder's files when assessing values of Open Tasks' Effect fields;
     added quick question's result details navigation which scrolls into view the result details of the question user pressed. This navigation becomes from answer color icon near to it's respective question icon;
     added Music with button to mute and unmute it;
@@ -49,6 +49,7 @@ EDIT (exam Nr.3 and later):
     added Hover text on Navigation icons and Result Details' icons;
     added page color changes with CSS and JS;
     added screen width adjustions;
+    adjusted question title Symbols to question title's height. Now Symbol is in the center of the question title;
     added font awesome icons in Info and Help support icons' slots and therefore Info and Help picture icons were removed;
     improved CSS for page colors. Now all code lines of page colors are in 1 CSS file;
     improved Info and Help windows' closure features. Now these windows will close only when user clicks mouse left-click outside window. Also improved scrolling features in the window's field;
