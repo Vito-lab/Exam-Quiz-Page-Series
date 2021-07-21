@@ -55,3 +55,16 @@ EDIT (exam Nr.3 and later):
     improved Info and Help windows' closure features. Now these windows will close only when user clicks mouse left-click outside window. Also improved scrolling features in the window's field;
     improved background picture's scaling. Now proportions of picture do not change while changing screen size;
     code was shortened (was 388 JS files, now 302). Created dependencies on parent functions for simplier editing.
+    
+    
+EDIT (exam Nr.4 and later):
+
+    added Bonus Test task - shadule with right and wrong checkbox options;
+    added more page color changes with CSS and JS;
+    edited page Color keyframes;
+    edited Final result score - now it is shown as percentage instead of score/10;
+    edited CSS colorsCustom.css and optionalShadows.css files - added more simplicity (less multi-classes), more shadows;
+    updated all tools and features for Bonus Test task - Question/Results navigation icon, answerCheck icon, result details in Test results;
+    improved navigation scaling. Now it will not matter how many questions there will be, no icon will go offscreen;
+    improved ALL functions. Now majority of them are working without element's ID, but instead they use classes. In this way future exams can be edited however is desired and almoust no additional changes in JS will be needed (code can work under different number of navigation icons, different number of Open task fields, different number of options in test questions etc.);
+    code was shortened, some functions got fused.
