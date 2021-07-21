@@ -59,8 +59,9 @@ EDIT (exam Nr.3 and later):
     
 EDIT (exam Nr.4 and later):
 
-    added Bonus Test task - shadule with right and wrong checkbox options;
+    added Bonus Test task - table with right and wrong checkbox options;
     added more page color changes with CSS and JS;
+    edited HTML code - some classes were removed, some classes were created, some of them combined. All of this for better JS performance;
     edited page Color keyframes;
     edited Final result score - now it is shown as percentage instead of score/10;
     edited CSS colorsCustom.css and optionalShadows.css files - added more simplicity (less multi-classes), more shadows;
